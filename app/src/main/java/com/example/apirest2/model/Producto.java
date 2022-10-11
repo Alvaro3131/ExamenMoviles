@@ -1,49 +1,84 @@
 package com.example.apirest2.model;
 
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+
 public class Producto {
-    private int id;
-    private String name;
-    private int price;
+    private int idproductos;
+    private String nombre;
+    private String marca;
+    private int stock;
+    private double precio;
+    private int idcategoria;
+    private String categoria;
 
-    public Producto() {
+    public int getIdproductos() {
+        return idproductos;
     }
 
-    public Producto(int id, String name, int price) {
-        this.id = id;
-        this.name = name;
-        this.price = price;
+    public void setIdproductos(int idproductos) {
+        this.idproductos = idproductos;
     }
 
-    public int getId() {
-        return id;
+    public String getNombre() {
+        return nombre;
     }
 
-    public void setId(int id) {
-        this.id = id;
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
     }
 
-    public String getName() {
-        return name;
+    public String getMarca() {
+        return marca;
     }
 
-    public void setName(String name) {
-        this.name = name;
+    public void setMarca(String marca) {
+        this.marca = marca;
     }
 
-    public int getPrice() {
-        return price;
+    public int getStock() {
+        return stock;
     }
 
-    public void setPrice(int price) {
-        this.price = price;
+    public void setStock(int stock) {
+        this.stock = stock;
+    }
+
+    public double getPrecio() {
+        return precio;
+    }
+
+    public void setPrecio(double precio) {
+        this.precio = precio;
+    }
+
+    public int getIdcategoria() {
+        return idcategoria;
+    }
+
+    public void setIdcategoria(int idcategoria) {
+        this.idcategoria = idcategoria;
+    }
+
+    public String getCategoria() {
+        return categoria;
+    }
+
+    public void setCategoria(String categoria) {
+        this.categoria = categoria;
     }
 
     @Override
     public String toString() {
         return "Producto{" +
-                "id=" + id +
-                ", name='" + name + '\'' +
-                ", price=" + price +
+                "id=" + idproductos +
+                ", name='" + nombre +
+                ", marca='" + marca +
+                ", sotck='" + stock +
+                ", precio='" + precio +
                 '}';
     }
 }

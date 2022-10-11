@@ -4,6 +4,21 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/alum.fial7/AndroidStudioProjects/ApiRest2/app/src/main/res/layout/activity_main.xml" value="0.2246376811594203" />
+        <entry key="..\:/Users/alvar/AndroidStudioProjects/crudestudiante/app/src/main/res/drawable/ic_baseline_remove_red_eye_24.xml" value="0.1" />
+        <entry key="..\:/Users/alvar/AndroidStudioProjects/crudestudiante/app/src/main/res/layout/activity_create.xml" value="0.264" />
+        <entry key="..\:/Users/alvar/AndroidStudioProjects/crudestudiante/app/src/main/res/layout/activity_detall.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/alvar/AndroidStudioProjects/crudestudiante/app/src/main/res/layout/activity_edit.xml" value="0.1" />
+        <entry key="..\:/Users/alvar/AndroidStudioProjects/crudestudiante/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/alvar/AndroidStudioProjects/crudestudiante/app/src/main/res/layout/distritolist.xml" value="0.25" />
+        <entry key="..\:/Users/alvar/AndroidStudioProjects/retrofit2022/app/src/main/res/drawable/ic_baseline_add_circle_outline_24.xml" value="0.152" />
+        <entry key="..\:/Users/alvar/AndroidStudioProjects/retrofit2022/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.127" />
+        <entry key="..\:/Users/alvar/AndroidStudioProjects/retrofit2022/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.127" />
+        <entry key="..\:/Users/alvar/AndroidStudioProjects/retrofit2022/app/src/main/res/drawable/ic_baseline_remove_red_eye_24.xml" value="0.1205" />
+        <entry key="..\:/Users/alvar/AndroidStudioProjects/retrofit2022/app/src/main/res/layout/activity_create.xml" value="0.1421875" />
+        <entry key="..\:/Users/alvar/AndroidStudioProjects/retrofit2022/app/src/main/res/layout/activity_detall.xml" value="0.4" />
+        <entry key="..\:/Users/alvar/AndroidStudioProjects/retrofit2022/app/src/main/res/layout/activity_edit.xml" value="0.1" />
+        <entry key="..\:/Users/alvar/AndroidStudioProjects/retrofit2022/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/alvar/AndroidStudioProjects/retrofit2022/app/src/main/res/layout/distritolist.xml" value="0.264" />
       </map>
     </option>
   </component>
