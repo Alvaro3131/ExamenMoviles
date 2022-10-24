@@ -54,6 +54,7 @@ public class DistritosAdapters extends BaseAdapter {
       viewButton=view.findViewById(R.id.viewButton);
       viewButton.setOnClickListener(new View.OnClickListener() {
           @Override
+
           public void onClick(View view) {
               callDetail(distritos.get(position).getIdproductos());
           }
